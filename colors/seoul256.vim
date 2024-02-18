@@ -228,7 +228,7 @@ call s:hi('Conditional', [110, 31], ['', ''])
 " while end
 call s:hi('Repeat', [68, 67], ['', ''])
 call s:hi('Todo', [161, 125], [s:dark_bg_2, s:light_bg_2])
-call s:hi('Function', [187, 58], ['', ''])
+call s:hi('Function', [179, 58], ['', ''])
 
 " Macros
 call s:hi('Define', [173, 131], ['', ''])
@@ -241,10 +241,10 @@ call s:hi('PreCondit', [173, 131], ['', ''])
 call s:hi('PreProc', [143, 58], ['', ''])
 
 " @abc
-call s:hi('Identifier', [217, 96], ['', ''])
+call s:hi('Identifier', [253, 30], ['', ''])
 
 " AAA Abc
-call s:hi('Type', [179, 94], ['', ''])
+call s:hi('Type', [43, 94], ['', ''])
 
 " + - * / <<
 call s:hi('Operator', [186, 131], ['', ''])
